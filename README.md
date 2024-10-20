@@ -1,2 +1,2 @@
 # Simple-Library-System
-A Simple Library System App that built with Java
+A simple system to check the books that the library has, borrowed books, and returned books.
